@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    font-family:  'Helvetica', sans-serif;
+}
+
+nav {
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#app {
+    text-align: center;
+    padding: 3em;
+}
